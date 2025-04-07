@@ -1,1 +1,3 @@
-# uncapp1m
+# Urbanova App
+
+Inversión inmobiliaria escalable.
